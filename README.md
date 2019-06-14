@@ -1,2 +1,2 @@
-# PT1-Yaht-zee-yeet-zee-
+# yahtzee
 yaht zee yote zee
